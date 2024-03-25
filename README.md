@@ -32,7 +32,6 @@ The footer, where every step you take is supported by the robust architecture of
 
 Whether you're a high school student pondering your next steps, a college graduate seeking direction, or someone looking to make a career transition, our platform is here to support you. We understand that navigating the complexities of education and career choices can be daunting, which is why we strive to streamline the process and provide valuable insights every step of the way.
 
-![Screenshot 2024-03-24 202534](https://github.com/pkakkar521/Career-Craft/assets/114657672/f7694ce0-2ad1-48a7-b1d4-3e27d651526c)
 
 #Services
 From exploring potential career paths to identifying educational opportunities and professional development resources, our platform serves as a trusted companion in your quest for personal and professional fulfillment. Our goal is to empower individuals to make confident decisions about their futures and embark on paths that align with their passions and goals.
